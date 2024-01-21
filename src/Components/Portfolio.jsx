@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/neonLights.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "This must be the place, written on wall with neon lights";
 
 /**
  * Project list
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My offical Portfolio Site🎉",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://www.ajstars.me",
   },
   {
     title: "Web Development for Beginners",
